@@ -1,7 +1,5 @@
 ### Olá eu sou o Amoz Emanuel 👋
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emanuel_amrl/)
-
 ![Emanuel GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuelamaral&show_icons=true&theme=dracula)
 
 ### Tecnologias que eu uso
